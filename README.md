@@ -1,6 +1,8 @@
 # docker-hadoop-test
 
 * Hadoop testing on local environment with amazonlinux
+    * Hadoop 2.7.3
+    * Hive 2.1.1
 
 # development
 
